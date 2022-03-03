@@ -3,3 +3,13 @@ body {
      text-align: center;
      font-family: Arial, Helvetica, sans-serif;
 }
+
+h2 {
+    font-size: 16px;
+    color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    height: 50px;
+    margin: 0auto;
+    padding: 0auto;
+}
