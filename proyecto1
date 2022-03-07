@@ -1,0 +1,48 @@
+[33mcommit fb79a4091dc2348a03b1cdba9ecd48ba9381dd4e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: brayan vallejo <rmavallejo14@gmail.com>
+Date:   Thu Mar 3 15:59:51 2022 -0600
+
+    cambios nuevos
+
+ blogops.html/blog.html | 10 [32m++++++[m[31m----[m
+ blogops.html/style.css | 22 [32m+++++++++++++[m[31m---------[m
+ 2 files changed, 19 insertions(+), 13 deletions(-)
+
+[33mcommit f5aedb751072571e75a006d9ba05cf1f31d12687[m
+Author: brayan vallejo <rmavallejo14@gmail.com>
+Date:   Thu Mar 3 15:42:15 2022 -0600
+
+    segunto titulo y cambios de estilos
+
+ blogops.html/blog.html |  1 [32m+[m
+ blogops.html/style.css | 10 [32m++++++++++[m
+ et                     | 27 [32m+++++++++++++++++++++++++++[m
+ 3 files changed, 38 insertions(+)
+
+[33mcommit 741d30dccdc5b96ed3b317442348c3602e1aa8be[m
+Author: brayan vallejo <rmavallejo14@gmail.com>
+Date:   Thu Mar 3 15:14:51 2022 -0600
+
+    nuevo parrafo
+
+ blogops.html/blog.html | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 4d818cd6ad8db8e11f264db7f04419ed439bb319[m
+Author: brayan vallejo <rmavallejo14@gmail.com>
+Date:   Tue Mar 1 19:10:13 2022 -0600
+
+    arranco mi primer proyecto con html y css
+
+ blogops.html/blog.html | 14 [32m++++++++++++++[m
+ blogops.html/style.css |  5 [32m+++++[m
+ 2 files changed, 19 insertions(+)
+
+[33mcommit 0ad05e6574b8f0b6bf990d96c6ee61c34fd5a184[m
+Author: brayan vallejo <rmavallejo14@gmail.com>
+Date:   Mon Feb 21 19:25:48 2022 -0600
+
+    este es el primer commit de este archivo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
